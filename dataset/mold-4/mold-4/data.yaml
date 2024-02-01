@@ -1,0 +1,12 @@
+names:
+- injera_mold
+nc: 1
+roboflow:
+  license: MIT
+  project: mold-5aw2h
+  url: https://universe.roboflow.com/injera-mold-detection/mold-5aw2h/dataset/4
+  version: 4
+  workspace: injera-mold-detection
+test: /content/mold-4/test
+train: /content/mold-4/train
+val: /content/mold-4/valid
